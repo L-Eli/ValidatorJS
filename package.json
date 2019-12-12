@@ -1,0 +1,12 @@
+{
+  "name": "validatorjs",
+  "version": "0.0.1",
+  "description": "Vadliator for JavaScript",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+  ],
+  "author": "Eli Lin",
+  "license": "MIT"
+}
